@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(), 
     new HtmlWebpackPlugin({
-      title: 'TEMPLATE',
+      title: 'API',
       template: './src/index.html',
       inject: 'body'
     })

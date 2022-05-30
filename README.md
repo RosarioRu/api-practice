@@ -2,7 +2,7 @@
 
 #### By _**Rosario Ruvalcaba**_
 
-#### _SHORT DESCRIPTION._
+#### _For practicing APIs._
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@
 
 ## Description
 
-_._
+_Practicing apis and asynchrony for epicocus lessons._
 
 ## Setup/Installation Requirements
 
